@@ -1,0 +1,11 @@
+{
+    "name": "Dark Pattern Detector",
+    "version": "1.0.0",
+    "description": "Detect if the website is using a dark pattern or not",
+    "manifest_version": 3,
+    "author": "Shreyash",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Dark Pattern"
+    }
+}
