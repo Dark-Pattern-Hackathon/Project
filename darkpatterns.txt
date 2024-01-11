@@ -1,24 +1,9 @@
-Amazon - https://www.amazon.com
-eBay - https://www.ebay.com
-Flipkart - https://www.flipkart.com (India)
-Alibaba - https://www.alibaba.com
-Etsy - https://www.etsy.com
-Walmart - https://www.walmart.com
-Target - https://www.target.com
-Best Buy - https://www.bestbuy.com
-Newegg - https://www.newegg.com
-Macy's - https://www.macys.com
-Overstock - https://www.overstock.com
-Zalando - https://www.zalando.com (Europe)
-Rakuten - https://www.rakuten.com
-AliExpress - https://www.aliexpress.com
-Sears - https://www.sears.com
-ASOS - https://www.asos.com
-H&M - https://www.hm.com
-Costco - https://www.costco.com
-Nordstrom - https://www.nordstrom.com
-JD.com - https://www.jd.com (China)
-Taobao - https://www.taobao.com (China)
-ShopClues - https://www.shopclues.com (India)
-Myntra - https://www.myntra.com (India)
-Snapdeal - https://www.snapdeal.com (India)
+spotify:    https://open.spotify.com/user/13u4uk5bb03gplatmgs34fzjo
+myntra:     https://www.myntra.com/tops/under+fourteen+only/under-fourteen-only-blue-print-mandarin-collar-cotton-top/23784342/buy
+linkedin:   https://www.linkedin.com/premium/survey/?destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F%3Ftrk%3Dsem-ga_campid.14650114788_asid.151761418307_crid.657403558718_kw.linkedin%2520sign%2520up_d.c_tid.kwd-331338449004_n.g_mt.e_geo.1007768&referenceId=mLLSaoJaQo6Kgtgd7LdM3A%3D%3D&upsellOrderOrigin=premium_homepage_identity_upsell&utype=job
+canva:      https://www.canva.com/pro/
+academia:   https://institutional.academia.edu/premium-for-institutions?utm_campaign=lohp_cta&utm_source=academia.edu
+medium:     https://medium.com/@yuriminamide0509/earthquakes-in-japan-we-are-always-prepared-0957c25ecf37
+glossier:   https://www.glossier.com/en-in/products/prime-conceal-eye-duo?variant=44399238086901
+urban decay: https://www.urbandecay.com/cart
+expedia:    https://www.expedia.co.in/Hotel-Search?adults=&children=&destination=Mysore%2C%20Karnataka%2C%20India&endDate=2024-01-14&guestRating=ANY&regionId=8878&selected=9398400&semdtl=&sort=RECOMMENDED&startDate=2024-01-12&theme=&useRewards=false&userIntent=
