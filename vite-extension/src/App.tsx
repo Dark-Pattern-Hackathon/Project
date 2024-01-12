@@ -35,6 +35,13 @@ function App() {
           if (response.ok) {
             const responseData = await response.json();
             alert('Server Response:\n' + JSON.stringify(responseData, null, 2));
+
+            const serverText = responseData.serverText;
+
+            const regex = new RegExp(serverText, 'gi');
+            document.body.innerHTML = document.body.innerHTML.replace(regex, match => `<mark style="background-color: yellow">${match}</mark>`);
+          
+            
           } else {
             alert('Error sending text to the server.');
           }
