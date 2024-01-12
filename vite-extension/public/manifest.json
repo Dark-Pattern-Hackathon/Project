@@ -6,7 +6,8 @@
         "default_popup":"index.html"
     },
     "permissions":[
-        "scripting"
+        "scripting",
+        "https://github.com"
     ],
     "host_permissions":[
         "http://*/*",
@@ -14,5 +15,9 @@
     ],
     "icons":{
         "32":"icon_32.png"
+    },
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'",
+        "sandbox": "allow-scripts"
     }
 }
