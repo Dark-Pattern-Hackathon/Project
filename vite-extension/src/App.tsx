@@ -34,7 +34,7 @@ function App() {
 
           if (response.ok) {
             const responseData = await response.json();
-            const regex = new RegExp('Explore', 'gi');
+            const regex = new RegExp(responseData.searchText, 'gi');
             document.body.innerHTML = document.body.innerHTML.replace(regex, match => `<mark style="background-color: yellow">${match}</mark>`);
             
           } else {
