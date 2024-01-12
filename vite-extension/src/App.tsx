@@ -20,7 +20,7 @@ function App() {
         document.execCommand('copy');
         document.body.removeChild(dummyTextArea);
 
-        console.log(textToCopy)
+        //console.log(textToCopy)
 
         const apiUrl = 'http://localhost:8000/api/data/detect';
         try {
@@ -34,9 +34,11 @@ function App() {
 
           if (response.ok) {
             const responseData = await response.json();
-            const regex = new RegExp(responseData.searchText, 'gi');
-            document.body.innerHTML = document.body.innerHTML.replace(regex, match => `<mark style="background-color: yellow">${match}</mark>`);
-            
+            console.log(responseData.Res)
+            responseData.Res.forEach((responseData: string | RegExp) => {
+              const regex = new RegExp(responseData, 'gi');
+              document.body.innerHTML = document.body.innerHTML.replace(regex, match => `<mark style="background-color: yellow">${match}</mark>`);
+            });
           } else {
             alert('Error sending text to the server.');
           }
